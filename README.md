@@ -80,7 +80,7 @@ protobufjs 提供了多种使用方式，由于微信小游戏禁止 eval , new 
 
 第一步，首先检查你是否安装了node.js以及npm，没有安装的自行安装。
 
-
+![](https://github.com/WQQPsyche/egretprotobuf/blob/master/1_node.png)
 
 第二步，在自己的电脑上安装protobufjs库以及egret protobuf库。
 
